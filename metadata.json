@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Pileta",
+  "description": "Calcula fácilmente la cantidad de cloro, clarificante y alguicida para tu pileta según su tamaño y material.",
+  "requestFramePermissions": []
+}
