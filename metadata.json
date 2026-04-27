@@ -1,5 +1,5 @@
 {
-  "name": "Calculadora de Pileta",
-  "description": "Calcula fácilmente la cantidad de cloro, clarificante y alguicida para tu pileta según su tamaño y material.",
+  "name": "Mantenimiento de Piletas - Calculadora de Cloro y Químicos",
+  "description": "Herramienta definitiva para saber cuánto cloro ponerle a tu pileta. Calcula dosis exactas de cloro, alguicida y clarificante según litros y material.",
   "requestFramePermissions": []
 }
